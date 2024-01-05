@@ -1,0 +1,6 @@
+.vscode/
+.cache/
+idea/
+bin/
+obj/
+.DS_Store
